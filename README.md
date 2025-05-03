@@ -54,7 +54,7 @@ sbcl --load eliza.lisp
 
 To quit, type bye.
 
-##🧪 Example Interaction
+## 🧪 Example Interaction
 
 ```bash
 
@@ -74,13 +74,13 @@ Goodbye!
 ```
 
 
-##👩‍💻 Author
+## 👩‍💻 Author
 Nissrine Elabjani
 2nd Year Engineering Student – Embedded Systems
 Université Paris Cité – Denis Diderot Engineering School
 📍 Paris, France
 📧 nissrine.elabjani@gmail.com
 
-##📄 License
+## 📄 License
 This project is for academic purposes only and follows the license terms described in the original ELIZA project instructions.
 
